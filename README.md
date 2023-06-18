@@ -13,10 +13,10 @@ The program generates an output file that lists each variable identifier and its
 ### Input File (`input.txt`)
 ```js
 int x, y;
-char t[2], u;
+char t[2],u;
 int a[3][4];
-char b[2], v[2][7];
-char z, g[8], h, m;
+char b[2],v[2][7];
+char z,g[8],h,m;
 ```
 
 ### Output File (`output.txt`)
