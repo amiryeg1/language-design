@@ -12,7 +12,7 @@ The program generates an output file that lists each variable identifier and its
 ## Example
 ### Input File (`input.txt`)
 ```js
-int x, y;
+int x,y;
 char t[2],u;
 int a[3][4];
 char b[2],v[2][7];
